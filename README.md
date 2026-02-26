@@ -69,7 +69,7 @@ A name must be _short_, _intuitive_ and _descriptive_:
 
 ```js
 /* Bad */
-const a = 5 // "a" could mean anything
+const count = 5 // "a" could mean anything
 const isPaginatable = a > 10 // "Paginatable" sounds extremely unnatural
 const shouldPaginatize = a > 10 // Made up verbs are so much fun!
 
