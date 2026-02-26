@@ -373,3 +373,5 @@ const friend = ['Bob', 'Tony', 'Tanya']
 const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
+
+> **Примечание для branch1:** Этот раздел был изменен в ветке branch1.
