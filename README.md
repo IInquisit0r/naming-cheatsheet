@@ -78,7 +78,6 @@ const postCount = 5
 const hasPagination = postCount > 10
 const shouldPaginate = postCount > 10 // alternatively
 ```
-
 ## Avoid contractions
 
 Do **not** use contractions. They contribute to nothing but decreased readability of the code. Finding a short, descriptive name may be hard, but contraction is not an excuse for not doing so.
@@ -374,4 +373,8 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 
+<<<<<<< HEAD
 > **Примечание для branch2:** Этот раздел был изменен в ветке branch2.
+=======
+> **Примечание для branch1:** Этот раздел был изменен в ветке branch1.
+>>>>>>> branch1
